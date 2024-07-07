@@ -2,7 +2,7 @@
 
 [![lint](https://github.com/Syu-fu/gh-dot-tmpl/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/Syu-fu/gh-dot-tmpl/actions/workflows/lint.yml)
 [![check license](https://github.com/Syu-fu/gh-dot-tmpl/actions/workflows/license-check.yml/badge.svg?branch=main)](https://github.com/Syu-fu/gh-dot-tmpl/actions/workflows/license-check.yml)
-[![lint](https://github.com/Syu-fu/gh-dot-tmpl/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/Syu-fu/gh-dot-tmpl/actions/workflows/lint.yml)
+[![test](https://github.com/Syu-fu/gh-dot-tmpl/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/Syu-fu/gh-dot-tmpl/actions/workflows/test.yml)
 [![Go Coverage](https://github.com/Syu-fu/gh-dot-tmpl/wiki/coverage.svg)](https://raw.githack.com/wiki/Syu-fu/gh-dot-tmpl/coverage.html)
 
 `gh-dot-tmpl` is a GitHub CLI extension that generates the contents of the `.github` folder from templates.  
@@ -20,7 +20,7 @@ Ensure that these dependencies are installed and properly configured before usin
 ## Installation
 
 ```shell
-gh extension install Syu-fu/dot-tmpl
+gh extension install Syu-fu/gh-dot-tmpl
 ```
 
 Upgrade:
