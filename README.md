@@ -20,7 +20,7 @@ Ensure that these dependencies are installed and properly configured before usin
 ## Installation
 
 ```shell
-gh extension install Syu-fu/dot-tmpl
+gh extension install Syu-fu/gh-dot-tmpl
 ```
 
 Upgrade:
