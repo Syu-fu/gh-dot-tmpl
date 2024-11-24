@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
 
-      - uses: Syu-fu/go-licenses@fee468ad948edc0d0ed869c1ab09ff29d995b9dd # v0.1.0
+      - uses: Syu-fu/go-licenses@93fe95e36935b5ba32b74b832a911e9bce7d6df5 # v0.2.0
