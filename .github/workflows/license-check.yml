@@ -13,6 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     name: license check
     steps:
-      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+      - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5.0.1
 
       - uses: Syu-fu/go-licenses@93fe95e36935b5ba32b74b832a911e9bce7d6df5 # v0.2.0
